@@ -1,7 +1,7 @@
 {
   "name": "mdl2-icons",
   "description": "The MDL2 iconic font and CSS framework",
-  "version": "1.0.3",
+  "version": "1.1.0",
   "style": "css/mdl2-icons.css",
   "keywords": ["font", "mdl2", "windows10", "icon", "bootstrap"],
   "homepage": "http://mdl2-icons.io/",
